@@ -1,1 +1,2 @@
 # CC-SHADE-ML
+This program code implements the CC-SHADE-ML algorithm for solving large-scale global optimization problems. CC-SHADE-ML changes the number of variables in subcomponents and the size of population dynamically during the optimization process. The SHADE algorithm is used as a subcomponent optimizer. The problems are presented as the benchmark set (LSGO CEC'2013). We use the MPICH2 framework to implement parallel numerical experiments on our computing cluster.
